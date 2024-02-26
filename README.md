@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sami</h1>
 <h3 align="center">I am a passionate full-stack developer from France, and I am also passionate about cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-db&label=Profile%20views&color=fefd6a&style=flat-square" alt="sami-db" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-db&label=Profile%20views&color=#D8524B&style=flat-square" alt="sami-db" /> </p>
 
 - 💻 I’m currently learning **JavaScript and Java**
 
